@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.sample-button-area, .button-area {
+  padding: 1em;
+  background-color: #2f3c48;
+  height: 2em;
+}
+
+.add-area {
+  padding: 1em;
+}
+
+.setting-type {
+  height: 2em;
+  margin-right: 0.5em;
+}
+
+.setting-text {
+  height: 1.5em;
+}
