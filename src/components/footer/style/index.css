@@ -4,7 +4,7 @@ body {
   font-family: sans-serif;
 }
 
-.sample-button-area, .button-area {
+.button-area {
   padding: 1em;
   background-color: #2f3c48;
   height: 2em;
